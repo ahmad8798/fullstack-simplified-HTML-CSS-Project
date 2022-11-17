@@ -81,10 +81,11 @@ header nav {
 }
 
 header a:hover {
-    color: #e8491d;
+    color: #bbb;
     font-weight: bold;
-    font-size: 20px;
+    
 }
+
 
 /* showcase */
 #showcase {
